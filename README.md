@@ -1,4 +1,4 @@
-# Case-Study-1---Predicting-Interest-rate
+# Case-Study-1-Predicting-Interest-rate
 
 The Data set represents thousands of loans made through the Lending Club platform, which is a platform that allows individuals to lend to other individuals.
 In this project, we will follow the below workflow.
